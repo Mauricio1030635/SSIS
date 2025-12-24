@@ -5,14 +5,14 @@
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="DESKTOP-15V8H1C"
   DTS:CreatorName="DESKTOP-15V8H1C\MauricioMS"
-  DTS:DTSID="{EF83DDD0-96C9-4DED-ADA7-4789A3A94BFA}"
+  DTS:DTSID="{E5E2DC5F-F6DA-4D0D-AD34-6F96A4189440}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="16.0.5685.0"
   DTS:LocaleID="9226"
-  DTS:ObjectName="Package"
+  DTS:ObjectName="Parametros_Variables"
   DTS:PackageType="5"
-  DTS:VersionBuild="12"
-  DTS:VersionGUID="{45F8FDCE-6F77-454C-AE33-83D8F5F790CA}">
+  DTS:VersionBuild="13"
+  DTS:VersionGUID="{984F24F5-8F04-427C-8CFE-44B06D825974}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
